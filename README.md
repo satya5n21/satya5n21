@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Total Time: 5 hrs 20 mins
+Total Time: 3 hrs 46 mins
 
-JavaScript   5 hrs 13 mins   ████████████████████████░   97.92 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JavaScript   3 hrs 39 mins   ████████████████████████░   97.06 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->  
