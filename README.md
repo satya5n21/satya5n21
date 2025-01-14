@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Total Time: 2 hrs 14 mins
+Total Time: 2 hrs 23 mins
 
-JavaScript   2 hrs 6 mins    ████████████████████████░   94.07 %
-PowerShell   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+JavaScript   2 hrs 16 mins   ████████████████████████░   94.44 %
+PowerShell   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->  
