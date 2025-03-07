@@ -55,7 +55,7 @@ No activity tracked
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-0B666A?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=satya5n21&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/>
 <!-------------------------------------------------------------------------------------------
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byteastro&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/> 
 -->
@@ -64,15 +64,15 @@ No activity tracked
 <details close> 
 <br>
     
-![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=satya5n21&color=orange&style=for-the-badge)
  
 <summary><h2>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2></summary>
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=satya5n21&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br> -->
  <hr width="58%" size="1px">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=satya5n21&theme=merko" alt="Current & Total Streak"/>
 <br><br>
 
-<!-- <a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=n83" width="250" alt="Synchrotek's Dev Card"/></a> -->
+<!-- <a href="https://app.daily.dev/satya5n21"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=n83" width="250" alt="satya5n21 Dev Card"/></a> -->
 
 </details>
 <!------------------------------------------------------------------------------------------->
@@ -80,7 +80,7 @@ No activity tracked
 ***
 
 <!-------------------------------------------------------------------------------------------
-<img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
+<img width="100%" align="left" alt="Coding" src="https://github.com/satya5n21/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 -->
 
