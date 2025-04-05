@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Total Time: 41 mins
+Total Time: 6 hrs 35 mins
 
-PowerShell   15 mins         █████████░░░░░░░░░░░░░░░░   35.54 %
-Git Config   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 %
+JavaScript   5 hrs 49 mins   █████████████████████░░░░   83.16 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->  
