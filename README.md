@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2025 - To: 15 April 2025
+From: 09 April 2025 - To: 16 April 2025
 
-Total Time: 17 hrs 49 mins
+Total Time: 13 hrs 53 mins
 
-JavaScript   16 hrs 49 mins  ████████████████████░░░░░   80.71 %
-Other        3 hrs           ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+JavaScript   12 hrs 53 mins  ██████████████████░░░░░░░   72.85 %
+Other        3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   21.45 %
 ```
 
 <!--END_SECTION:waka-->  
