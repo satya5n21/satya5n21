@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Total Time: 16 hrs 2 mins
+Total Time: 15 hrs 47 mins
 
-JavaScript    14 hrs 3 mins   █████████████████████░░░░   84.87 %
-JSON          1 hr 41 mins    ███░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+JavaScript   14 hrs 43 mins  ██████████████████████░░░   89.79 %
+JSON         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->  
