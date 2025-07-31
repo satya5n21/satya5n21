@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2025 - To: 29 July 2025
+From: 23 July 2025 - To: 30 July 2025
 
-Total Time: 17 hrs 27 mins
+Total Time: 13 hrs 26 mins
 
-JavaScript   16 hrs 32 mins  █████████████████████░░░░   84.97 %
-Other        1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+JavaScript   12 hrs 20 mins  ████████████████████░░░░░   81.97 %
+Other        1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   10.70 %
 ```
 
 <!--END_SECTION:waka-->  
