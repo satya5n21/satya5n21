@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-Total Time: 7 hrs 31 mins
+Total Time: 5 hrs 48 mins
 
-JavaScript   4 hrs 57 mins   ███████████████░░░░░░░░░░   61.47 %
-Docker       1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   21.92 %
+JavaScript   4 hrs 6 mins    ████████████████░░░░░░░░░   65.03 %
+Docker       54 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
 ```
 
 <!--END_SECTION:waka-->  
