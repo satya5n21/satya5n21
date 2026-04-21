@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Total Time: 5 hrs 17 mins
+Total Time: 4 hrs 20 mins
 
-JavaScript   3 hrs 34 mins         ██████████████░░░░░░░░░░░   56.17 %
-Other        1 hr 4 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.96 %
+JavaScript   2 hrs 54 mins         █████████████░░░░░░░░░░░░   52.43 %
+Other        1 hr 13 mins          █████░░░░░░░░░░░░░░░░░░░░   21.93 %
 ```
 
 <!--END_SECTION:waka-->  
