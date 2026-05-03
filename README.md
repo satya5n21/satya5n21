@@ -1,44 +1,47 @@
 # 👋 Hey, I'm Satyajit
 
-Backend-focused developer interested in building **reliable systems, self-hosted setups, and practical DIY tech**.
+Backend-focused developer building **reliable systems, self-hosted setups, and DIY tech**.
 
 ---
 
 ## 🧩 What I Work On
 
-* Event-driven backend systems (PUB/SUB, async flows)
-* Secure communication & remote access setups
-* Backend services with structured architecture
+* Event-driven systems (async workflows, PUB/SUB)
+* Backend services with clean, modular structure
 * Small-scale hardware + software integrations
-* Tools that reduce dependency on external services
 
 ---
 
 ## 📊 Activity
 
 <div align="center">
-<table><tr><td><br>
-<img src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55" width="300" height="200"/>
-</td><td valign="middle">
+<table width="100%">
+<tr>
 
-<!-- ------------------------------------------------------------- -->
-<pre>
-┌───[ active@satya5n21 ]──────────────────────────────┐
-│                                                   │
-│  🧠 Currently Building                            │
-│                                                   │
-│  📡 <a href="repo-link">esp32-cam-surveillance</a>            │
-│  🔐 <a href="docs-link">remote-ssh-access</a>                │
-│  🎮 <a href="video-link">diy-racing-controller</a>           │
-│  🤖 <a href="doc-link">local-ai-assistant</a>               │
-│                                                   │
-└───────────────────────────────────────────────────┘
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
+</td>
+
+<td width="50%">
+
+<pre align="left">
+┌───[ satyajit@active ]──────────────────────────┐
+│                                                │
+│  🧠 Currently Building                         │
+│                                                │
+│  📡 <a href="https://github.com/satya5n21/StatAscend">A gamified productivity webtool</a>      │
+│  🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>          │
+│  🤖 <a href="https://www.youtube.com/watch?v=mNcXue7X8H0">local-ai-assistant</a>        |
+│                                                │
+│  → or check all my <a href="https://github.com/satya5n21?tab=repositories">Projects</a>                    │
+│                                                │
+└────────────────────────────────────────────────┘
 </pre>
 
-<!-- ------------------------------------------------------------- -->
-
 </td>
-</tr></table>
+
+</tr>
+</table>
 </div>
 
 ---
@@ -49,9 +52,9 @@ Backend-focused developer interested in building **reliable systems, self-hosted
 
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge\&logo=node.js\&logoColor=3C873A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge\&logo=javascript)
-![Python 4 automation](https://img.shields.io/badge/python-D04848?style=for-the-badge&logo=python&logoColor=ffdd54)
-![c++ 4 IOT](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=)
 ![REST API](https://img.shields.io/badge/REST-444444?style=for-the-badge)
+<!-- ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge\&logo=python) -->
+<!-- ![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge\&logo=c%2B%2B) -->
 
 ### Databases & Messaging
 
@@ -64,28 +67,31 @@ Backend-focused developer interested in building **reliable systems, self-hosted
 
 ![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge\&logo=linux)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge\&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge\&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### Hardware / DIY
 
+![Arduino](https://img.shields.io/badge/Arduino-20232A?style=for-the-badge\&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-20232A?style=for-the-badge)
 ![Raspberry Pi Pico](https://img.shields.io/badge/RPi_Pico-20232A?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&style=for-the-badge&logoColor=fff)
 
 ---
 
-## 📌 Projects
-
-Explore here → <https://github.com/satya5n21?tab=repositories>
-
----
-
-## 🧠 Note
-
-Mostly interested in building things that are :
+#### 🌱 - I like building things that are
 
 * understandable
-* maybe useful
-* and fun to explore
+* useful (or very fun exploring)
 
 ---
+
+<!-- Backup assets -->
+<!-- 
+<img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
+
+<img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/60e329d5-fee9-4cc3-800c-6d9eec8eb072">
+
+<img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/d659b680-33c2-4972-922f-9fbb06aa38c5">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=8&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg) 
+-->
