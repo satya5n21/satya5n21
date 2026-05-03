@@ -33,7 +33,7 @@ Other        1 hr 5 mins           ███░░░░░░░░░░░░
 
 - 🌱 Enthusiastic  about - *webdev, backend, scalable architectures.*
   
-- 🚀 Explore all my projects [*Here*](https://github.com/Synchrotek?tab=repositories) and [***here***](https://github.com/ByteAstro?tab=repositories).
+- 🚀 Explore all my projects [*Here*](https://github.com/satya5n21?tab=repositories) and [***here***](https://github.com/ByteAstro?tab=repositories).
   
 - ⚡ Fun fact - *Games inspire many coders, including me! They fuel creativity and problem-solving skills.*
 
