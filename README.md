@@ -14,36 +14,36 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 
 ## 📊 Activity
 
-<div align="center">
-<table width="100%">
-<tr>
+<img
+  alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d"
+  src="https://github.com/user-attachments/assets/934f79d2-70a1-4be8-93b8-76cb98e6ba73"
+  width="400" height="250"
+  align="left"
+/>
 
-<td width="50%" align="center">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/> -->
-<img width="380" height="250" alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d" src="https://github.com/user-attachments/assets/934f79d2-70a1-4be8-93b8-76cb98e6ba73" />
-</td>
+<!-- Fake SSH Terminal -->
+<pre align="right">
+5n21@satyajit:~$ status
 
-<td width="50%">
+> Currently building...
 
-<pre align="left">
-┌───[ satyajit@active ]──────────────────────────┐
-│                                                │
-│  🧠 Currently working ON                      |│
-│                                                │
-│    📡 <a href="https://github.com/satya5n21/StatAscend">A gamified productivity webtool</a>          │
-│    🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>                        │
-│    🤖 <a href="https://www.youtube.com/watch?v=mNcXue7X8H0">local-ai-assistant</a>                       |
-│                                                │
-│  → or check out all projects <a href="https://github.com/satya5n21?tab=repositories"><i>here</i></a>             |│
-│                                                │
-└────────────────────────────────────────────────┘
+📡 <a href="https://github.com/satya5n21/StatAscend">gamified-productivity-tool</a>
+🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>
+🤖 <a href="https://www.youtube.com/watch?v=mNcXue7X8H0">local-ai-assistant</a>
+
+5n21@satyajit:~$ ls projects/
+
+→ <a href="https://github.com/satya5n21?tab=repositories">view-all-projects</a>
 </pre>
 
-</td>
+<!-- Typing Animation (Terminal Style) -->
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&color=58A6FF&background=00000000&vCenter=true&width=400&lines=connecting+to+active...;loading+projects...;system+running...;explore+freely" 
+align="left"
+/>
+</p>
 
-</tr>
-</table>
-</div>
+<br clear="left"/>
 
 ---
 
@@ -88,8 +88,6 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 
 <!-- Backup assets -->
 <!-- 
-<img width="750" height="422" alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d" src="https://github.com/user-attachments/assets/934f79d2-70a1-4be8-93b8-76cb98e6ba73" />
-
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
 
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/60e329d5-fee9-4cc3-800c-6d9eec8eb072">
