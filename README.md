@@ -17,12 +17,12 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 <img
   alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d"
   src="https://github.com/user-attachments/assets/934f79d2-70a1-4be8-93b8-76cb98e6ba73"
-  width="300" height="200"
+  width="350" height="220"
   align="left"
 />
 
 <!-- Fake SSH Terminal -->
-<pre>
+<pre align="right">
 root@satyajit:~$ status
 
 > Currently building...
@@ -36,14 +36,16 @@ root@satyajit:~$ ls projects/
 → <a href="https://github.com/satya5n21?tab=repositories">view-all-projects</a>
 </pre>
 
+<br clear="left"/>
+
+---
+
 <!-- Typing Animation (Terminal Style) -->
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&color=58A6FF&background=00000000&vCenter=true&width=400&lines=connecting+to+active...;loading+projects...;system+running...;explore+freely" 
-align="left"
+align="center"
 />
 </p>
-
-<br clear="left"/>
 
 ---
 
