@@ -19,7 +19,8 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 <tr>
 
 <td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/> -->
+<img width="380" height="250" alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d" src="https://github.com/user-attachments/assets/934f79d2-70a1-4be8-93b8-76cb98e6ba73" />
 </td>
 
 <td width="50%">
@@ -27,13 +28,13 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 <pre align="left">
 ┌───[ satyajit@active ]──────────────────────────┐
 │                                                │
-│  🧠 Currently Building                         │
+│  🧠 Currently working ON                      |│
 │                                                │
-│  📡 <a href="https://github.com/satya5n21/StatAscend">A gamified productivity webtool</a>      │
-│  🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>          │
-│  🤖 <a href="https://www.youtube.com/watch?v=mNcXue7X8H0">local-ai-assistant</a>        |
+│    📡 <a href="https://github.com/satya5n21/StatAscend">A gamified productivity webtool</a>          │
+│    🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>                        │
+│    🤖 <a href="https://www.youtube.com/watch?v=mNcXue7X8H0">local-ai-assistant</a>                       |
 │                                                │
-│  → or check all my <a href="https://github.com/satya5n21?tab=repositories">Projects</a>                    │
+│  → or check out all projects <a href="https://github.com/satya5n21?tab=repositories"><i>here</i></a>             |│
 │                                                │
 └────────────────────────────────────────────────┘
 </pre>
@@ -87,6 +88,8 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 
 <!-- Backup assets -->
 <!-- 
+<img width="750" height="422" alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d" src="https://github.com/user-attachments/assets/934f79d2-70a1-4be8-93b8-76cb98e6ba73" />
+
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
 
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/60e329d5-fee9-4cc3-800c-6d9eec8eb072">
