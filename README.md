@@ -17,13 +17,13 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 <img
   alt="238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d"
   src="https://github.com/user-attachments/assets/934f79d2-70a1-4be8-93b8-76cb98e6ba73"
-  width="400" height="250"
+  width="300" height="200"
   align="left"
 />
 
 <!-- Fake SSH Terminal -->
-<pre align="right">
-5n21@satyajit:~$ status
+<pre>
+root@satyajit:~$ status
 
 > Currently building...
 
@@ -31,7 +31,7 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>
 🤖 <a href="https://www.youtube.com/watch?v=mNcXue7X8H0">local-ai-assistant</a>
 
-5n21@satyajit:~$ ls projects/
+root@satyajit:~$ ls projects/
 
 → <a href="https://github.com/satya5n21?tab=repositories">view-all-projects</a>
 </pre>
