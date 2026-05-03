@@ -38,8 +38,6 @@ root@satyajit:~$ ls projects/
 
 <br clear="left"/>
 
----
-
 <!-- Typing Animation (Terminal Style) -->
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&color=58A6FF&background=00000000&vCenter=true&width=400&lines=connecting+to+active...;loading+projects...;system+running...;explore+freely" 
