@@ -25,7 +25,7 @@ Backend-focused developer building **reliable systems, self-hosted setups, and D
 <pre align="right">
 root@satyajit:~$ status
 
-> Currently building...
+> Currently working on...
 
 📡 <a href="https://github.com/satya5n21/StatAscend">gamified-productivity-tool</a>
 🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>
