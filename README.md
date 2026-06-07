@@ -28,7 +28,7 @@ root@satyajit:~$ status
 > Currently working on...
 
 📡 <a href="https://github.com/satya5n21/StatAscend">gamified-productivity-tool</a>
-🔐 <a href="https://opensource.com/article/20/9/ssh">remote-ssh-access</a>
+🔐 <a href="https://github.com/satya5n21/IOT-project-simulations">simulations of IOT projects</a>
 🤖 <a href="https://www.youtube.com/watch?v=mNcXue7X8H0">local-ai-assistant</a>
 
 root@satyajit:~$ ls projects/
