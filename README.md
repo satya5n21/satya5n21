@@ -81,8 +81,9 @@ align="center"
 
 #### 🌱 - I like building things that are
 
-* understandable
-* useful (or very fun exploring)
+* challenging
+* useful & exciting
+* fun exploring
 
 ---
 
