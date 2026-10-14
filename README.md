@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Satyajit
 
-Backend-focused developer building **reliable systems, self-hosted setups, and DIY tech**.
+Backend-focused developer building **reliable systems, fintech services, self-hosted setups, and DIY tech**.
 
 ---
 
