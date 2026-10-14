@@ -27,9 +27,9 @@ root@satyajit:~$ status
 
 > Currently working on...
 
-🔐 <a href="https://github.com/satya5n21/IOT-project-simulations">simulations of IOT projects</a>
+🔐 <a href="https://www.geeksforgeeks.org/devops/what-is-jenkins">some devops learnings</a>
 🔔 <a href="https://github.com/satya5n21/novapulse-notification-n-activity-feed">Backend notification engine</a>
-📡 <a href="https://github.com/satya5n21/StatAscend">gamified-productivity-tool</a>
+📡 <a href="https://www.geeksforgeeks.org/python/fastapi-tutorial">FastApi basics</a>
 
 root@satyajit:~$ ls projects/
 
